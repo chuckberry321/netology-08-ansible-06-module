@@ -1,0 +1,6 @@
+---
+# tasks file for my_module
+- name: Execute module
+  my_own_module:
+    path: "test_file.txt"
+    content: "Some text for example"

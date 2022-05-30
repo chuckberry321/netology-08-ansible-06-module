@@ -1,0 +1,4 @@
+---
+# defaults file for my_module
+  path: "test_file.txt"
+  content: "Sime text for example"
